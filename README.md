@@ -8,5 +8,4 @@ I am a 16 year old Self-Learning Developer.
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" width="46" height="46" />
 # Attempting to learn
 <img src ="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" width="46" height="46" />
-# Soon Learning
 <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="46" height="46" />
