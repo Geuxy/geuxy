@@ -1,5 +1,5 @@
 ### Heyo there, im Geuxy (He/Him) 👋
-I am a 16 year old Self-Learning Developer.
+I am a 17 year old Self-Learning Developer.
 
 ![Geuxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=geuxy&show_icons=true&theme=dark)
 
