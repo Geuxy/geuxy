@@ -18,5 +18,5 @@ I am a 17 year old self-learning programmer.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![C++](https://img.shields.io/badge/C++-25a2f3.svg?style=for-the-badge&logo=cpp&logoColor=white)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
