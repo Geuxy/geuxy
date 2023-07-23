@@ -12,6 +12,14 @@ I am a 17 year old self-learning programmer.
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![EclipseIDE](https://img.shields.io/badge/Eclipse-491dcf?style=for-the-badge&logo=eclipse&logoColor=white)
 
+### Things i want to learn
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VISUAL--STUDIO--CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 ### 📊 Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geuxy&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
