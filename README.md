@@ -1,5 +1,6 @@
 # Heyo, im Geuxy 👋
 I am a 17 year old self-learning programmer.
+
 ![](https://github-readme-stats.vercel.app/api?username=geuxy&theme=nord&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 # 💻 Knowledge
