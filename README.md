@@ -8,7 +8,7 @@ I am a 17 year old self-learning programmer.
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Pacman](https://img.shields.io/badge/PACMAN-2562e6?style=for-the-badge&logo=archlinux&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/ArchLinux-2562e6?style=for-the-badge&logo=archlinux&logoColor=white)
 ### 📊 Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geuxy&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
