@@ -2,22 +2,7 @@
 
 ###
 
-<h3 align="center">I am a 17 year old self-learning programmer.</h3>
-
-###
-
-<h4 align="center">Connect with me</h4>
-
-###
-
-<div align="center">
-  <a href="https://twitter.com/Geuxyy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/@Geuxyy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+<h3 align="center">I am a 17 year old self-learning programmer who prefers front-end development.</h3>
 
 ###
 
@@ -26,11 +11,37 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h5 align="center">I prefer to use</h5>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+</div>
+
+###
+
+<h4 align="center">Wanting to learn</h4>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gtk" height="40" alt="gtk logo"  />
 </div>
 
 ###
@@ -42,24 +53,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geuxy&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geuxy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/geuxy/geuxy/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://streak-stats.demolab.com?user=geuxy&locale=en&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
