@@ -8,8 +8,6 @@
 
 <h2 align="center">My knowledge</h2>
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
