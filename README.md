@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="0" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
@@ -14,7 +13,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
 </div>
 
