@@ -5,11 +5,12 @@
 <h2 align="center">My knowledge</h2>
 
 <div align="center">
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+    <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
 <h2 align="center">Wanting to learn</h2>
