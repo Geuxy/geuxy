@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">I am a 17 year old self-learning programmer who prefers front-end development.</h3>
+<p align="center">I am a 17 year old self-learning programmer who prefers front-end development.</p>
 
 ###
 
-<h4 align="center">Knowledge</h4>
+<h2 align="center">My knowledge</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h5 align="center">I prefer to use</h5>
+<h2 align="center">I prefer to use</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="center">Wanting to learn</h4>
+<h2 align="center">Wanting to learn</h2>
 
 ###
 
@@ -46,14 +46,13 @@
 
 ###
 
-<h4 align="center">Github Statistics</h4>
+<h2 align="center">Github Statistics</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geuxy&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geuxy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=geuxy&locale=en&mode=weekly&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
