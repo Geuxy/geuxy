@@ -1,3 +1,5 @@
+<img src="[https://skillicons.dev/icons?i=java](https://github.com/Geuxy/geuxy/blob/main/images/github-banner.jpg)" height="40" alt="banner"  />
+
 <h1 align="center">Heyo, im Geuxy 👋</h1>
 
 <p align="center">I am a 17 year old self-learning programmer who prefers front-end development.</p>
