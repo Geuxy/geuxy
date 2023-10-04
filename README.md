@@ -7,12 +7,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-<h2 align="center">I prefer to use</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
 </div>
 
