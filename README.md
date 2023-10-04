@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Geuxy/geuxy/blob/main/images/github-banner.jpg" height="420" alt="banner"  />
+<img src="https://github.com/Geuxy/geuxy/blob/main/images/github-banner.jpg" height="400" alt="banner"  />
 </div>
 
 <h1 align="center">Heyo, im Geuxy 👋</h1>
