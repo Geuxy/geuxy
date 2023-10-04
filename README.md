@@ -3,7 +3,6 @@
     <img src="https://github.com/Geuxy/geuxy/blob/main/images/github-banner.jpg" height="400" alt="banner"  />
 </div>
 <h3 align="center">I am a 17 year old self-learning programmer who prefers front-end development</h3>
-<h3>Testing</h3>
 
 <h2 align="center">My knowledge</h2>
 <div align="center">
