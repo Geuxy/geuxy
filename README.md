@@ -3,9 +3,9 @@
     <img src="https://github.com/Geuxy/geuxy/blob/main/images/github-banner.jpg" height="400" alt="banner"  />
 </div>
 <h3 align="center">I am a 17 year old self-learning programmer who prefers front-end development</h3>
+<h3>Testing</h3>
 
 <h2 align="center">My knowledge</h2>
-
 <div align="center">
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
       <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
@@ -15,7 +15,6 @@
 </div>
 
 <h2 align="center">Wanting to learn</h2>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
