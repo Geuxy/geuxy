@@ -1,10 +1,7 @@
 <div align="center">
 <img src="https://github.com/Geuxy/geuxy/blob/main/images/github-banner.jpg" height="400" alt="banner"  />
+      I am a 17 year old self-learning programmer who prefers front-end development.
 </div>
-
-<h1 align="center">Heyo, im Geuxy 👋</h1>
-
-<p align="center">I am a 17 year old self-learning programmer who prefers front-end development.</p>
 
 <h2 align="center">My knowledge</h2>
 
