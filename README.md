@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <div align="center">
     <img src="https://github.com/Geuxy/geuxy/blob/main/images/github-banner.jpg" height="400" alt="banner"  />
 </div>
