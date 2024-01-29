@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=180&section=header&text=Welcome&fontColor=FCFCFC&fontSize=70&fontAlignY=32" height="400" alt="banner"  />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=180&section=header&text=Welcome&fontColor=FCFCFC&fontSize=70&fontAlignY=32" height="180" alt="banner"  />
 </div>
 
 <div align="center">
