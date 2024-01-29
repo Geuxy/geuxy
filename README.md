@@ -12,6 +12,11 @@
       <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
+<h2 align="center">Currently Learning</h2>
+<div align="center">
+      <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+</div>
+
 <h2 align="center">Wanting to learn</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
