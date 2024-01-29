@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=150&section=header&text=Hi%20There%20%F0%9F%91%8B&fontColor=FCFCFC&fontSize=50&fontAlignY=32" height="150" alt="banner"/>
 </div>
 <h2 align="center">About Me</h2>
-<div align="center"><font size="+2">I am a developer looking into cyber security</font></div>
+<div align="center"><font size="+25">I am a developer looking into cyber security</font></div>
 
 <h2 align="center">Developer Stack</h2>
 <div align="center">
