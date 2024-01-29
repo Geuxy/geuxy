@@ -26,3 +26,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
 </div>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=150&section=footer" height="150" alt="banner"  />
+</div>
