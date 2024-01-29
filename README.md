@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=180&section=header&text=Welcome&fontColor=FCFCFC&fontSize=70&fontAlignY=32" height="400" alt="banner"  />
+</div>
+
+<div align="center">
     <img src="https://github.com/Geuxy/geuxy/blob/main/images/github-banner.jpg" height="400" alt="banner"  />
 </div>
 <h3 align="center">I am a 17 year old self-learning programmer who prefers minecraft modding and plugin making</h3>
