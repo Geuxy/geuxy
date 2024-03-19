@@ -10,14 +10,9 @@
   <img src="https://skillicons.dev/icons?i=java,idea,vscode,linux" height="40" alt="dev stack"/>
 </div>
 
-<h2 align="center">Languages im lightly learned</h2>
+<h2 align="center">Languages i've learned slightly</h2>
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,js" height="40" alt="learning stack"/>
-</div>
-
-<h2 align="center">Currently Learning</h2>
-<div align="center">
-      <img src="https://skillicons.dev/icons?i=python" height="40" alt="learning stack"/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python" height="40" alt="learning stack"/>
 </div>
 
 <h2 align="center">Interest in Learning</h2>
