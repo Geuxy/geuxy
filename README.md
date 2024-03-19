@@ -17,7 +17,7 @@
 
 <h2 align="center">Interest in Learning</h2>
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=c,cs,qt,rust,js,html,css" height="40" alt="learning stack"/>
+      <img src="https://skillicons.dev/icons?i=c,cs,rust,js,html,css" height="40" alt="learning stack"/>
 </div>
 
 <div align="center">
