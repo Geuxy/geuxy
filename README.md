@@ -15,9 +15,9 @@
       <img src="https://skillicons.dev/icons?i=python" height="40" alt="learning stack"/>
 </div>
 
-<h2 align="center">Tempted to learn</h2>
+<h2 align="center">Interest in Learning</h2>
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=c,cs,qt,rust" height="40" alt="learning stack"/>
+      <img src="https://skillicons.dev/icons?i=c,cs,qt,rust,js,html,css" height="40" alt="learning stack"/>
 </div>
 
 <div align="center">
