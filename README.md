@@ -7,7 +7,7 @@
 
 <h2 align="center">Developer Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,idea,vscode,linux" height="40" alt="dev stack"/>
+  <img src="https://skillicons.dev/icons?i=java,idea,vscode,linux,windows" height="40" alt="dev stack"/>
 </div>
 
 <h2 align="center">Languages i've learned slightly</h2>
