@@ -12,12 +12,12 @@
 
 <h2 align="center">Languages i've learned slightly</h2>
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python" height="40" alt="learning stack"/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python,rust" height="40" alt="learning stack"/>
 </div>
 
 <h2 align="center">Interest in Learning</h2>
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=rust,html,css" height="40" alt="learning stack"/>
+      <img src="https://skillicons.dev/icons?i=html,css" height="40" alt="learning stack"/>
 </div>
 
 <div align="center">
