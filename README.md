@@ -10,16 +10,7 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,idea,vscode,linux,windows" height="40" alt="dev stack"/>
 </div>
 
-<h2 align="center">Languages i've learned slightly</h2>
+<h2 align="center">Used before</h2>
 <div align="center">
       <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python,rust" height="40" alt="learning stack"/>
-</div>
-
-<h2 align="center">Interest in Learning</h2>
-<div align="center">
-      <img src="https://skillicons.dev/icons?i=html,css" height="40" alt="learning stack"/>
-</div>
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=150&section=footer" height="150" alt="banner"/>
 </div>
