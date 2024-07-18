@@ -14,3 +14,6 @@
 <div align="center">
       <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python,rust" height="40" alt="learning stack"/>
 </div>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=150&section=footer" height="150" alt="banner"/>
+</div>
