@@ -3,9 +3,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=150&section=header&text=Hi%20There%20%F0%9F%91%8B&fontColor=FCFCFC&fontSize=50&fontAlignY=32" height="150" alt="banner"/>
 </div>
 <h2 align="center">About Me</h2>
-<h3 align="center">I am a developer looking into cyber security</h3>
+<h3 align="center">I am a java programmer that is taking a peek into cyber security</h3>
 
-<h2 align="center">Developer Stack</h2>
+<h2 align="center">Technology Stack</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,idea,vscode,linux,windows" height="40" alt="dev stack"/>
 </div>
