@@ -12,4 +12,4 @@
       <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python,rust" height="40" alt="learning stack"/>
 </div>
 
-![Geuxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=geuxy&show_icons=true&theme=dracula)
+![Geuxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=geuxy&show_icons=true&theme=nord)
