@@ -1,9 +1,6 @@
 <!DOCTYPE html>
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=150&section=header&text=Hi%20There%20%F0%9F%91%8B&fontColor=FCFCFC&fontSize=50&fontAlignY=32" height="150" alt="banner"/>
-</div>
 <h2 align="center">About Me</h2>
-<h3 align="center">I am a java programmer that is taking a peek into cyber security</h3>
+<h4 align="center">I am a java programmer that is taking a peek into cyber security</h4>
 
 <h2 align="center">Technology Stack</h2>
 <div align="center">
@@ -14,6 +11,5 @@
 <div align="center">
       <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python,rust" height="40" alt="learning stack"/>
 </div>
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=73C2FB&height=150&section=footer" height="150" alt="banner"/>
-</div>
+
+![Geuxy's GitHub stats](https://github-readme-stats.vercel.app/api?geuxy=anuraghazra&show_icons=true&theme=radical)
