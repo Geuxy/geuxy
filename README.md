@@ -24,7 +24,6 @@ I am a java developer interested in the subject of Cyber Security
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux2.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
 </div>
