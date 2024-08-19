@@ -18,4 +18,4 @@ I am a java developer interested in the subject of Cyber Security
 ```
 
 <h3>Technology Stack</h3>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">
