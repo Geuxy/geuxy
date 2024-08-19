@@ -14,7 +14,7 @@ $$ |  $$ |$$   ____|$$ |  $$ | $$  $$<  $$ |  $$ |
 ------------------------------------    \$$$$$$  |
                                          \______/
 
-I am a java developer interested in the subject of Cyber Security
+I am a java developer interested in Cyber Security
 ```
 
 <h3>Technology Stack</h3>
@@ -28,7 +28,7 @@ I am a java developer interested in the subject of Cyber Security
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
 </div>
 
-<h3>Technologies i used before</h3>
+<h3>Technologies i have used before</h3>
 <div align="left">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
