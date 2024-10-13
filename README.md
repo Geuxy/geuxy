@@ -2,7 +2,7 @@
 ┌── geuxy [~/project]
 └─ $ cat README.md
 Hi there, im
- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\                                       
+ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                                       
 $$  __________________________________________\$$$                                  
 $$ /       $$$$$$\  $$\   $$\ $$\   $$\ $$\   $$\ 
 $$ |$$$$\ $$  __$$\ $$ |  $$ |\$$\ $$  |$$ |  $$ |
@@ -18,7 +18,7 @@ I am a java developer interested in Cyber Security
 ```
 <h3>Contacts</h3>
  <div align="left">
-  <a href="discordapp.com/users/geuxy">
+  <a href="discord.txt">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg">
   </a>
 </div>
