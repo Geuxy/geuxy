@@ -3,6 +3,11 @@
 </div>
 
 <div align="center">
+### Hi there 👋
+ I am java programmer that is into Cyber Security and Minecraft modding.
+</div>
+
+<div align="center">
 <h3>Contacts</h3>
   <a href="discord.txt">
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg">
