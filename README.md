@@ -10,7 +10,7 @@
 <div align="center">
 <h3>Contacts</h3>
   <a href="discord.txt">
-   <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
 
