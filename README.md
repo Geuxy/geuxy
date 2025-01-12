@@ -16,20 +16,16 @@
 
 <div align="center">
 <h3>Technology Stack</h3>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 <div align="center">
  <h3>Technologies i have used before</h3>
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust2.svg">
-   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
+   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c&logoColor=white">
+   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 </div>
