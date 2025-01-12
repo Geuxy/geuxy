@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-### Hi there 👋
+<h3>Hi there 👋</h3>
  I am java programmer that is into Cyber Security and Minecraft modding.
 </div>
 
